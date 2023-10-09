@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b27fade1.css",
+    "main.js": "/portfolio/static/js/main.37bf29a8.js",
+    "static/media/avendre.svg": "/portfolio/static/media/avendre.33cf05efcfee259426702669f8d1d8f3.svg",
+    "static/media/myCima.svg": "/portfolio/static/media/myCima.2719eaf772b658d07c8895cc6e4058ed.svg",
+    "static/media/sonatrach.svg": "/portfolio/static/media/sonatrach.c8cc8d8a13b01118fd4018e64176477b.svg",
+    "static/media/shopPc.svg": "/portfolio/static/media/shopPc.10182152aa3a5bc69ac2827edf4ba2eb.svg",
+    "static/media/reatec.svg": "/portfolio/static/media/reatec.bad93a0b3c087a832637969cadc702f7.svg",
+    "static/media/profilePic.svg": "/portfolio/static/media/profilePic.cc3d38db0819914dd6957a2c6817e25e.svg",
+    "static/media/revo.svg": "/portfolio/static/media/revo.0448ef09429ef2373c0479478e98a2ff.svg",
+    "static/media/bonneCommand.svg": "/portfolio/static/media/bonneCommand.856c1e7328f9b329188a984b0294fb45.svg",
+    "static/media/Instagram.svg": "/portfolio/static/media/Instagram.0e592964e9931af8bbf46e512fec1bdf.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.2e807c9a1f596a60ca42e7ec76090a9c.svg",
+    "static/media/LinkedIn.svg": "/portfolio/static/media/LinkedIn.7399ebceaec7fb5e2a72bdb4dedc4c4a.svg",
+    "static/media/Facebook.svg": "/portfolio/static/media/Facebook.913d1052263e6facf5e94e153406078f.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/arrow.svg": "/portfolio/static/media/arrow.a377fde4f934b305d06fe6736017572d.svg",
+    "static/media/Download.svg": "/portfolio/static/media/Download.9cc167ba0ed46c172609fb0abd85505f.svg",
+    "static/media/arrowDown.svg": "/portfolio/static/media/arrowDown.d41ae2b46b99d89777afb7fb63ca571c.svg",
+    "static/media/arrowRight.svg": "/portfolio/static/media/arrowRight.1097cfa0a6a08f9b4fdde26b63bf40a9.svg",
+    "static/media/arrowEmail.svg": "/portfolio/static/media/arrowEmail.78dfad1ceaf771b060c336a3bbba4092.svg",
+    "static/media/phone.svg": "/portfolio/static/media/phone.14661c594dd1817adeac836e8b506e74.svg",
+    "static/media/logoCode.svg": "/portfolio/static/media/logoCode.aac6837d6a655d7cd625c37fbee0c2bc.svg",
+    "static/media/mail.svg": "/portfolio/static/media/mail.59c1817970ae156f48659b1339d45306.svg",
+    "main.b27fade1.css.map": "/portfolio/static/css/main.b27fade1.css.map",
+    "main.37bf29a8.js.map": "/portfolio/static/js/main.37bf29a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27fade1.css",
+    "static/js/main.37bf29a8.js"
+  ]
+}
